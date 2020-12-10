@@ -1,4 +1,4 @@
-# Read: 02 - Readings: Stacks & Queues
+# Read: 10 - Readings: Stacks & Queues
 
 *Today Topic will be a about*
 - Stacks
