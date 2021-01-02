@@ -30,7 +30,7 @@ This Site Will Contain  all future Repo For 401 Classes
 | Read-17       | [Read Link ](https://aghyadalbalkhi-asac.github.io/Reading-Notes-401/Read-17)  |
 | Read-18       | [Read Link ](https://aghyadalbalkhi-asac.github.io/Reading-Notes-401/Read-18)  |
 | Read-19       | [Read Link ](https://aghyadalbalkhi-asac.github.io/Reading-Notes-401/Read-19)  |
-| Read-20       | [Read Link ](https://aghyadalbalkhi-asac.github.io/Reading-Notes-401/Read-20)  |
+| Read-26       | [Read Link ](https://aghyadalbalkhi-asac.github.io/Reading-Notes-401/Read-26)  |
 
 
 ## Contact Info : 
