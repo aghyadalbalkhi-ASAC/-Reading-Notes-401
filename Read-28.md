@@ -101,7 +101,6 @@ def create_view(request):
 <form method="POST" enctype="multipart/form-data"> 
 
 	<!-- Security token -->
-	{% csrf_token %} 
 
 	<!-- Using the formset -->
 	{{ form.as_p }} 
