@@ -1,12 +1,13 @@
 
-# Read: 36 - Readings: API Deployment
+# Read: 36 -Readings: DSA Review
+
 
 
 
 *Today Topic will be a about*
-- API Deployment
+- DSA Review
 
-![Deployment](images/Deployment.jpg)
+![DSA](images/1_sMryEXZVPKFjGNcfSzE8Mw.jpeg)
 
 
 
